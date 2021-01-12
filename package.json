@@ -1,16 +1,14 @@
 {
-  "name": "hapi-openapi",
+  "name": "@loansathome/hapi-openapi",
   "description": "Design-driven apis with OpenAPI (formerly Swagger) 2.0 and hapi.",
-  "version": "2.0.2",
+  "version": "2.0.4",
   "author": "Trevor Livingston <tlivings@gmail.com>",
   "repository": {
     "type": "git",
     "url": "git://github.com/krakenjs/hapi-openapi.git"
   },
   "bugs": "http://github.com/krakenjs/hapi-openapi/issues",
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org"
-  },
+
   "engines": {
     "node": ">=12"
   },
